@@ -1,0 +1,15 @@
+{
+  "name": "recruitmentbot",
+  "version": "1.0.0",
+  "description": "bot to help CTC recruitment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nikhil Murthy",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.13.1",
+    "dotenv": "^16.0.3"
+  }
+}
