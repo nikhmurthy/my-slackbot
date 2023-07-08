@@ -10,6 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "@slack/bolt": "^3.13.1",
-    "dotenv": "^16.0.3"
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "vercel": "^30.2.1"
   }
 }
