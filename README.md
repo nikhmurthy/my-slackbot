@@ -1,4 +1,4 @@
-# ctc-slackbot
+# better-slackbot
 creating a slackbot that combines multiple useful one (simple poll and donut as of now)
 
 you can:\
