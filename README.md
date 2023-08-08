@@ -1,8 +1,12 @@
-# donut-rep
-this is a more involved copy of slack donut bot
+# ctc-slackbot
+creating a slackbot that combines multiple useful one (simple poll and donut as of now)
 
 you can:\
-A. set the size of coffee chats via /donut set size _n_\
-B. set the channel that donut will use to sample users from\
+1. set the size of coffee chats via /donut set size _n_\
+2. set the channel that donut will use to sample users from\
+3. send out coffee chats either manually or as often as you set
 
-eventually, I want to add vercel hosting and potentially integration with GPT so it starts coffee chats with icebreakers or ideas for meetings
+in progress:\
+1. simple poll functionality\
+2. serverless hosting on vercel
+3. gpt integration for funny icebreakers 
